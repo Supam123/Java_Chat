@@ -22,7 +22,7 @@ public class Client extends JFrame{
 	// it to be publicly accesible so 
 	// it will take a ip adres to  connect to the server
 	public Client (String host) {
-		super ("Client mofo!");
+		super ("Client!");
 		serverIP = host;// IPADDRES OF THE SERVER
 		userText = new JTextField();
 		userText.setEditable(false);
