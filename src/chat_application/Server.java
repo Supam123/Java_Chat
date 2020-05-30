@@ -142,7 +142,7 @@ public class Server extends JFrame {
 				
 			}
 			catch(ClassNotFoundException classNotFoundException) {
-				showMessage("\n idk wtf that user sent!");
+				showMessage("\n idk wat that user sent!");
 			}
 			
 			//have conversation
